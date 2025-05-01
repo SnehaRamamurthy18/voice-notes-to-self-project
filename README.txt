@@ -26,6 +26,4 @@ This project was created as a self-initiated case study to demonstrate Business 
 - MS Word (for flowcharts and documents)
 
 ## About the Author
-Sneha Ramamurthy
-Aspiring Business Analyst with a background in .NET development  
-LinkedIn: [https://www.linkedin.com/in/sneharamamurthy-72588a1b2/]  
+Sneha Ramamurthy 
